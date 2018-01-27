@@ -3,8 +3,8 @@
 # DFS, BFS, and Havel-Hakimi Algorithms
 
 
-#### Homework in Ankara University (2015-2016).
-I wrote this program in Java which contain 3 algorithms, DFS, BFS and Havalhakimi. For DFS and BFS, we can generate dynamic nodes and connect them what ever we want. Then press search button to start searching and animation will display step by step... For HavelHakimi, we can specify a degree sequence, the press the button then it will generate how to calculate step by step. Then it will generate a graph based on the degree sequence.
+#### Homework (Ankara University (2015-2016)).
+I wrote this program in Java which contains 3 algorithms, DFS, BFS and Havalhakimi. DFS/BFS can generate dynamic nodes and contains animated searching process. HavelHakimi takes a degree sequence, produces step-by-step calculation and corresponding graph based on the specified degree sequence.
 
 ## Main Interface
 
